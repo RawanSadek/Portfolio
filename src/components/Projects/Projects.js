@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import foodApp from "../../Assets/Projects/food-app.png";
-import emotion from "../../Assets/Projects/emotion.png";
+import freeLand from "../../Assets/Projects/freeLand.png";
 import bookStore from "../../Assets/Projects/book-store.png";
 import quiz from "../../Assets/Projects/quiz-app.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import hms from "../../Assets/Projects/hms.png";
 import pms from "../../Assets/Projects/pms.png";
 
 function Projects() {
@@ -28,7 +28,7 @@ function Projects() {
               title="QuizWiz"
               description="A web application built with React, TypeScript, Tailwind CSS, React Hook Form, and Axios. It enables instructors to create and manage quizzes, organize student groups, and schedule exams, while students can take quizzes with a live countdown timer. The system includes dynamic forms, real-time updates, and role-based dashboards for both instructors and students."
               ghLink="https://github.com/RawanSadek/Quiz-App.git"
-              demoLink="#"
+              demoLink="https://quizzes-application-1.netlify.app/"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={hms}
               isBlog={false}
               title="Hotel Manaement System"
               description="A full-featured hotel management and booking system that allows users to explore rooms, view details, manage favorites, and complete secure online payments through Stripe. The admin dashboard provides complete control over rooms, facilities, ads, users, and bookings with full CRUD functionality. Built with React.js, TypeScript, Material UI, React Router, React Hook Form, React Context, Axios, and integrated with Stripe for seamless payment processing."
@@ -78,7 +78,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={freeLand}
               isBlog={false}
               title="Free Land"
               description="A modern and fully responsive UI design built using HTML, Bootstrap and Custom CSS styling. This project focuses purely on the **frontend layout and styling**, showcasing clean design, structured layout, and responsive elements"
