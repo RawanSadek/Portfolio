@@ -6,13 +6,19 @@
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
-<br/>
+<hr/>
 
-Based on a template by <a href='https://github.com/soumyajit4419/Portfolio'>Soumyajit4419</a>
+## 👩🏻‍💻 Rawan Sadek – Portfolio
 
-## Built With
+This is my personal frontend portfolio website, built to showcase my projects, skills, and experience as a React.js developer. <br/>
+The website highlights my technical expertise, professional background, and the frontend applications I’ve developed individually and in teams. 
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+
+## 🚀 Live Demo
+🔗 <a href='https://portfolio-rawan-sadek.vercel.app/' target="_blank">View Portfolio</a>↗
+
+
+## 🛠️ Tech Stack
 
 This project was built using these technologies.
 
@@ -23,15 +29,17 @@ This project was built using these technologies.
 - VsCode
 - Vercel
 
-## Features
 
-**📖 Multi-Page Layout**
+## 💡 Features
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+  **📖 Multi-Page Layout**
 
-**📱 Fully Responsive**
+  **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-## Getting Started
+  **📱 Fully Responsive**
+
+
+## ⚙️ Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
@@ -40,18 +48,9 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 1. Installation: `npm install`
 
 2. In the project directory, you can run: `npm start`
+    Runs the app in the development mode.\
+    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+### 🖋️ Credits
 
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+This portfolio is based on the open-source React template by <a href='https://github.com/soumyajit4419/Portfolio.git'>Soumyajit Behera<a/>
