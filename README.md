@@ -8,7 +8,7 @@
 
 <br/>
 
-Based on a template by Soumyajit4419
+Based on a template by <a href='https://github.com/soumyajit4419/Portfolio'>Soumyajit4419</a>Soumyajit4419
 
 ## Built With
 
